@@ -11,6 +11,8 @@ namespace ConsoleApplication20
         static void Main(string[] args)
         {
             Console.WriteLine(123);
+            Console.WriteLine("hid");
+            Console.ReadKey();
         }
     }
 }
